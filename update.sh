@@ -7,3 +7,5 @@ service xahaud stop && \
 rm xahaud && \
 ln -s ../downloads/$update ./xahaud && \
 chmod +x ./xahaud && service xahaud start
+
+#GOODMONEYCOLLECTIVE
