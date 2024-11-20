@@ -1,4 +1,4 @@
-update=2024.9.7-release+977
+update=2024.11.18-release+1141
 
 cd /opt/xahaud/downloads/ && \
 wget https://build.xahau.tech/"$update" && \
